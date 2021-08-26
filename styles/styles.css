@@ -1,0 +1,13 @@
+.nav__header{
+    font-size: 16px;
+    color: #212353;
+    font-weight: 800;
+    text-decoration: none;
+}
+.nav__help, .nav__features, .nav__signup{
+    font-size: 16px;
+    color: #4B5D68;
+    font-weight: 500;
+    line-height: 25.6px;
+    text-decoration: none;
+}
