@@ -41,3 +41,59 @@
     top: 47px;
 }
 /* Top Section  */
+.top-section--text{
+    position: absolute;
+    left: 240px;
+    top: 237px;
+}
+.top-section--small-text{
+    position: absolute;
+    left: 240px;
+    top: 471px;
+}
+.top-section--two-girls{
+    position: absolute;
+    left: 603px;
+    top: 333px;
+}
+.top-section--learn-more-btn{
+    position: absolute;
+    left: 240px;
+    top: 641px;
+}
+.top-section--second-img{
+    position: absolute;
+    left: 240px;
+    top: 903.18px;
+}
+/* Features Section */
+.features--header-text{
+   position: absolute;
+   left: 596.29px;
+    top: 1613px;
+}
+.features--sub-text{
+    position: absolute;
+    left: 507.29px;
+    top: 1715px;
+}
+.features--image-1{
+    position: absolute;
+    left: 328.29px;
+    top: 1873px;
+}
+.features--image-2{
+    position: absolute;
+    left: 915.28px;
+    top: 1873px;
+}
+.features--image-3{
+    position: absolute;
+    left: 328.29px;
+    top: 2281px;
+}
+.features--image-4{
+    position: absolute;
+    left: 915.28px;
+    top: 2281px;
+}
