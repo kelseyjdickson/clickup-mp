@@ -1,13 +1,43 @@
-.nav__header{
-    font-size: 16px;
-    color: #212353;
-    font-weight: 800;
-    text-decoration: none;
+/* Nav-Section CSS */
+.nav{
+    display: flex;
 }
-.nav__help, .nav__features, .nav__signup{
-    font-size: 16px;
-    color: #4B5D68;
-    font-weight: 500;
-    line-height: 25.6px;
-    text-decoration: none;
+.nav--small-purple{
+    position: absolute;
+    left: 240px;
+    top: 74px;
 }
+.nav--medium-pink{
+    position: absolute;
+    left: 269px;
+    top: 59px;
+}
+.nav--about{
+    position: absolute;
+    left: 410px;
+    top: 65px;
+    
+}
+.nav--help{
+    position: absolute;
+    left: 503px;
+    top: 64px;
+
+}
+.nav--feature{
+    position: absolute;
+    left: 578px;
+    top: 64px;
+}
+.nav--signup{
+    position: absolute;
+    left: 681px;
+    top: 64px;
+
+}
+.nav--demo-btn{
+    position: absolute;
+    left: 1150px;
+    top: 47px;
+}
+/* Top Section  */
